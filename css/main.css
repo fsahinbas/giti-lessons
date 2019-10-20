@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+h1 {
+  font-family: "Montserrat";
+  text-align: center;
+  color: #fff;
+}
+
+.s1 {
+  background: url("../img/slide1.jpg");
+  background-size: cover;
+}
+
+.s2 {
+  background: url("../img/slide2.jpg");
+  background-size: cover;
+}
+
+.s2 h1 {
+  text-align: left;
+  margin-left: 2em;
+  font-size: 4em;
+}
+
+.s3 {
+  background: url("../img/slide3.jpg");
+  background-size: cover;
+}
+
+.s3 h1 {
+  text-align: left;
+  margin-left: 2em;
+  font-size: 2em;
+}
+
+span {
+  background: #fff !important;
+}
+
+.fp-slidesNav.fp-bottom {
+  bottom: 3em !important;
+  margin-left: 3em !important;
+}
+/*# sourceMappingURL=main.css.map */
