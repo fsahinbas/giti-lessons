@@ -1,1 +1,3 @@
 a.txt
+belgeler/*
+!belgeler/b.txt
